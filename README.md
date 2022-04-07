@@ -1,6 +1,6 @@
 # Gilvan Filho (gilvansfilho)
 
-[![](https://img.shields.io/badge/Senior%20Consultant%20at%20red--hat-ee0000?style=for-the-badge)](https://redhat.com)
+[![](https://img.shields.io/badge/Senior%20Consultant%20at%20red--hat-ee0000?logo=red-hat&style=for-the-badge)](https://redhat.com)
 
 [![](https://img.shields.io/badge/red--hat%20certified%20specialist%20in%20openshift%20application%20development-ee0000?logo=red-hat&style=for-the-badge)](https://rhtapps.redhat.com/certifications/badge/verify/IIKD3HABL5EZ4ETOX54TVERIJYAEQU3CUPSQX2KSDXT6RW46LQ3YWP2PKMJOB2FESKFUN2GLGGL67UAA4DNI6PQU27PFU2ZMLS26POA=)
 
