@@ -1,11 +1,13 @@
 # Gilvan Filho (gilvansfilho)
 
-[![](https://img.shields.io/badge/working%20on%20red--hat-ee0000?style=for-the-badge)](https://redhat.com)
+[![](https://img.shields.io/badge/Senior%20Consultant%20at%20red--hat-ee0000?style=for-the-badge)](https://redhat.com)
 
 [![](https://img.shields.io/badge/red--hat%20certified%20specialist%20in%20openshift%20application%20development-ee0000?logo=red-hat&style=for-the-badge)](https://rhtapps.redhat.com/certifications/badge/verify/IIKD3HABL5EZ4ETOX54TVERIJYAEQU3CUPSQX2KSDXT6RW46LQ3YWP2PKMJOB2FESKFUN2GLGGL67UAA4DNI6PQU27PFU2ZMLS26POA=)
 
 ## Sobre mim
-Analista de Sistemas pela Universidade Federal do Acre (UFAC) com especialização em gerência de projetos de software pela Universidade Federal do Pará (UFPA). Atuo profissionalmente a 10 anos no Banco da Amazônia S/A participando de projetos de desenvolvimento e manutenção e realizando o suporte a sistemas de elevada criticidade para o negócio.
+Analista de Sistemas pela Universidade Federal do Acre (UFAC) com especialização em gerência de projetos de software pela Universidade Federal do Pará (UFPA). Hoje sou consultor senior na Red Hat. 
+
+Atuei 10 anos no Banco da Amazônia S/A participando de projetos de desenvolvimento e manutenção e realizando o suporte a sistemas de elevada criticidade para o negócio.
 
 Entre as atividades desempenhadas estão:
 - Desenvolvimento, manutenção e suporte de sistemas;
