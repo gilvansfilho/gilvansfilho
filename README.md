@@ -16,10 +16,6 @@ Artigos publicados em meu blog pessoal
 Artigo publicado no DZone:
 - [Jackson, JSON and the Proper Handling of Unknown Fields in APIs](https://dzone.com/articles/jackson-json-and-the-proper-handling-of-unknown-fi)
 
-
-Em minha vida particular sou apaixonado pela minha família, fotografias e viagens. Conhecer outros países e culturas me fascina pois me faz entender, ou tentar entender, como outras pessoas pensam e agem. 
-
-
 ## Contato
 📱 +55 91 981381999
 
