@@ -12,6 +12,7 @@ Open Source Contributions:
 - [[Apache Camel] (chores) camel-google-secret-manager: fixing a few code violations from SonarCloud](https://github.com/apache/camel/pull/8552)
 - [[Apache Camel] (chores) camel-rest-swagger: fixing a few code violations from SonarCloud](https://github.com/apache/camel/pull/8554)
 - [[Apache Camel] Cleanup jpa component](https://github.com/apache/camel/pull/8549)
+- [[Apache Camel] (chores) Sonar's issues cleanups](https://github.com/apache/camel/pull/8601)
 
 Blog posts:
 - [[PT-BR] CORS para desenvolvedores backend](https://blog.gilvansfilho.com/cors-para-desenvolvedores-backend)
