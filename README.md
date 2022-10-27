@@ -13,6 +13,9 @@ Open Source Contributions:
 - [[Apache Camel] (chores) camel-rest-swagger: fixing a few code violations from SonarCloud](https://github.com/apache/camel/pull/8554)
 - [[Apache Camel] Cleanup jpa component](https://github.com/apache/camel/pull/8549)
 - [[Apache Camel] (chores) Sonar's issues cleanups](https://github.com/apache/camel/pull/8601)
+- [[Apache Camel] Camel-git: fix environmental contamination and default branch for tests](https://github.com/apache/camel/pull/8632/)
+- [[Apache Camel] [Camel 18656] Fix camel-git always merge at master branch](https://github.com/apache/camel/pull/8639)
+- [[Apache Camel] (backport) [Camel 18656] Fix camel-git always merge at master branch](https://github.com/apache/camel/pull/8641)
 
 Blog posts:
 - [[PT-BR] CORS para desenvolvedores backend](https://blog.gilvansfilho.com/cors-para-desenvolvedores-backend)
