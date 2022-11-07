@@ -16,6 +16,7 @@ Open Source Contributions:
 - [[Apache Camel] Camel-git: fix environmental contamination and default branch for tests](https://github.com/apache/camel/pull/8632/)
 - [[Apache Camel] [Camel 18656] Fix camel-git always merge at master branch](https://github.com/apache/camel/pull/8639)
 - [[Apache Camel] (backport) [Camel 18656] Fix camel-git always merge at master branch](https://github.com/apache/camel/pull/8641)
+- [[Apache Camel] [CAMEL 18646] Provide custom configuration](https://github.com/apache/camel/pull/8661)
 
 Blog posts:
 - [[PT-BR] CORS para desenvolvedores backend](https://blog.gilvansfilho.com/cors-para-desenvolvedores-backend)
