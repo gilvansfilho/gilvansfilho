@@ -19,6 +19,7 @@ Open Source Contributions:
 - [[Apache Camel] [CAMEL 18646] Provide custom configuration](https://github.com/apache/camel/pull/8661)
 - [[Apache Camel] (chores) replacing inner classes with lambda](https://github.com/apache/camel/pull/8845)
 - [[Apache Camel] (chores) replacing more inner classes with lambda](https://github.com/apache/camel/pull/8854)
+- [[Apache Camel] Chores cleanup](https://github.com/apache/camel/pull/8878)
 
 Blog posts:
 - [[PT-BR] CORS para desenvolvedores backend](https://blog.gilvansfilho.com/cors-para-desenvolvedores-backend)
