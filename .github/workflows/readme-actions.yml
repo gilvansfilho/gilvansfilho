@@ -3,7 +3,7 @@ name: Update README
 on:
   schedule:
     #- cron: "0 2 * * *"
-    - cron: "*/1 * * * *" # Runs every 1 minutes.
+    - cron: "* * * * *" # Runs every 1 minutes.
 jobs:
   update-credly:
     name: Update Readme with badges
