@@ -2,6 +2,9 @@
 
 [![](https://img.shields.io/badge/Senior%20Consultant%20at%20red--hat-ee0000?logo=red-hat&style=for-the-badge)](https://redhat.com)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 📝 [My Blog](http://blog.gilvansfilho.com)<br/>
 :bird: [Twitter](http://twitter.com/gilvansfilho)
 
