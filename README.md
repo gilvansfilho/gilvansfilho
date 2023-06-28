@@ -7,7 +7,7 @@
 [![Red Hat® Certified Specialist in Containers](https://images.credly.com/size/110x110/images/272f17b3-2eb9-4e5f-aa3c-66c6b137fb27/image.png)](http://www.credly.com/badges/d04904a5-e55d-4b7a-a22c-36dd70d96586 "Red Hat® Certified Specialist in Containers")
 <!--END_SECTION:badges-->
 
-📝 [My Blog](http://blog.gilvansfilho.com)<br/>
+📝 [Blog](http://blog.gilvansfilho.com)<br/>
 :bird: [Twitter](http://twitter.com/gilvansfilho)
 
 Open Source Contributions:
