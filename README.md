@@ -3,8 +3,8 @@
 [![](https://img.shields.io/badge/Senior%20Consultant%20at%20red--hat-ee0000?logo=red-hat&style=for-the-badge)](https://redhat.com)
 
 <!--START_SECTION:badges-->
-[![Red Hat® Certified Specialist in API Management](https://images.credly.com/size/110x110/images/6eb5499c-cf76-4837-ac72-6a254139af1a/image.png)](http://www.credly.com/badges/3b950380-c290-42ac-bf2d-19fceedd7c6e "Red Hat® Certified Specialist in API Management")
-[![Red Hat® Certified Specialist in Containers](https://images.credly.com/size/110x110/images/272f17b3-2eb9-4e5f-aa3c-66c6b137fb27/image.png)](http://www.credly.com/badges/d04904a5-e55d-4b7a-a22c-36dd70d96586 "Red Hat® Certified Specialist in Containers")
+[![Red Hat Certified Specialist in API Management](https://images.credly.com/size/110x110/images/6eb5499c-cf76-4837-ac72-6a254139af1a/image.png)](http://www.credly.com/badges/3b950380-c290-42ac-bf2d-19fceedd7c6e "Red Hat Certified Specialist in API Management")
+[![Red Hat Certified Specialist in Containers](https://images.credly.com/size/110x110/images/272f17b3-2eb9-4e5f-aa3c-66c6b137fb27/image.png)](http://www.credly.com/badges/d04904a5-e55d-4b7a-a22c-36dd70d96586 "Red Hat Certified Specialist in Containers")
 <!--END_SECTION:badges-->
 
 📝 [Blog](http://blog.gilvansfilho.com)<br/>
