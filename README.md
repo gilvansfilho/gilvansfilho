@@ -13,8 +13,8 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14893](https://github.com/keycloak/keycloak/pull/14893#issuecomment-1597797009) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-2. 🗣 Commented on [#10388](https://github.com/apache/camel/pull/10388#issuecomment-1595738647) in [apache/camel](https://github.com/apache/camel)
+1. 🗣 Commented on [#11628](https://github.com/apache/camel/pull/11628#issuecomment-1743333109) in [apache/camel](https://github.com/apache/camel)
+2. 💪 Opened PR [#11628](https://github.com/apache/camel/pull/11628) in [apache/camel](https://github.com/apache/camel)
 3. 🗣 Commented on [#10388](https://github.com/apache/camel/pull/10388#issuecomment-1593983421) in [apache/camel](https://github.com/apache/camel)
 4. 🗣 Commented on [#10388](https://github.com/apache/camel/pull/10388#issuecomment-1593520179) in [apache/camel](https://github.com/apache/camel)
 5. 💪 Opened PR [#10388](https://github.com/apache/camel/pull/10388) in [apache/camel](https://github.com/apache/camel)
