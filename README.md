@@ -1,6 +1,6 @@
 # Gilvan Filho (gilvansfilho)
 
-[![](https://img.shields.io/badge/Senior%20Consultant%20at%20red--hat-ee0000?logo=red-hat&style=for-the-badge)](https://redhat.com)
+[![](https://img.shields.io/badge/Middleware%20Architect%20at%20red%20hat-ee0000?logo=red-hat&style=for-the-badge)](https://redhat.com)
 
 <!--START_SECTION:badges-->
 [![Red Hat Certified OpenShift Application Developer](https://images.credly.com/size/110x110/images/f7107c13-ff27-467c-ac8e-ba4ba609050b/image.png)](http://www.credly.com/badges/e688e18e-7b2d-47e9-bc20-a859c88e5efe "Red Hat Certified OpenShift Application Developer")
