@@ -14,13 +14,13 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25917](https://github.com/keycloak/keycloak/issues/25917#issuecomment-1882110335) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-2. 🗣 Commented on [#25994](https://github.com/keycloak/keycloak/pull/25994#issuecomment-1882106532) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-3. 🗣 Commented on [#25917](https://github.com/keycloak/keycloak/issues/25917#issuecomment-1881717417) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-4. 🗣 Commented on [#20353](https://github.com/keycloak/keycloak/issues/20353#issuecomment-1867617516) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-5. 💪 Opened PR [#25361](https://github.com/keycloak/keycloak/pull/25361) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-6. 🗣 Commented on [#20353](https://github.com/keycloak/keycloak/issues/20353#issuecomment-1840876639) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-7. 🗣 Commented on [#11628](https://github.com/apache/camel/pull/11628#issuecomment-1756105551) in [apache/camel](https://github.com/apache/camel)
+1. 🗣 Commented on [#26208](https://github.com/keycloak/keycloak/pull/26208#issuecomment-1924741200) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+2. 🗣 Commented on [#25917](https://github.com/keycloak/keycloak/issues/25917#issuecomment-1882110335) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+3. 🗣 Commented on [#25994](https://github.com/keycloak/keycloak/pull/25994#issuecomment-1882106532) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+4. 🗣 Commented on [#25917](https://github.com/keycloak/keycloak/issues/25917#issuecomment-1881717417) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+5. 🗣 Commented on [#20353](https://github.com/keycloak/keycloak/issues/20353#issuecomment-1867617516) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+6. 💪 Opened PR [#25361](https://github.com/keycloak/keycloak/pull/25361) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+7. 🗣 Commented on [#20353](https://github.com/keycloak/keycloak/issues/20353#issuecomment-1840876639) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 8. 💪 Opened PR [#10373](https://github.com/apache/camel/pull/10373) in [apache/camel](https://github.com/apache/camel)
 9. 🗣 Commented on [#14893](https://github.com/keycloak/keycloak/pull/14893#issuecomment-1587239816) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 10. 🗣 Commented on [#10233](https://github.com/apache/camel/pull/10233#issuecomment-1573689115) in [apache/camel](https://github.com/apache/camel)
