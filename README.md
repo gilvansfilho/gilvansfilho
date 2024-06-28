@@ -3,11 +3,12 @@
 [![](https://img.shields.io/badge/Middleware%20Architect%20at%20red%20hat-ee0000?logo=red-hat&style=for-the-badge)](https://redhat.com)
 
 <!--START_SECTION:badges-->
-[![Red Hat Certified Cloud-Native Developer](https://images.credly.com/size/110x110/images/12ef4e4e-3d8d-4caf-9ab1-858c5bcb9619/image.png)](http://www.credly.com/badges/86349c6e-5511-4e1b-9105-52d77b5bbca1 "Red Hat Certified Cloud-Native Developer")
-[![Red Hat Certified Enterprise Application Developer](https://images.credly.com/size/110x110/images/ae7dd2bd-1d04-43d9-b148-1ef79ec45129/image.png)](http://www.credly.com/badges/957c5788-cab5-49fe-b76d-023b99973d37 "Red Hat Certified Enterprise Application Developer")
-[![Red Hat Certified OpenShift Application Developer](https://images.credly.com/size/110x110/images/f7107c13-ff27-467c-ac8e-ba4ba609050b/image.png)](http://www.credly.com/badges/45805b67-1d30-4ce7-abd5-b2692867e6d6 "Red Hat Certified OpenShift Application Developer")
-[![Red Hat Certified Specialist in API Management](https://images.credly.com/size/110x110/images/6eb5499c-cf76-4837-ac72-6a254139af1a/image.png)](http://www.credly.com/badges/b17a7024-1ade-4cc9-b8f3-8251f941435a "Red Hat Certified Specialist in API Management")
-[![Red Hat Certified Specialist in Containers](https://images.credly.com/size/110x110/images/272f17b3-2eb9-4e5f-aa3c-66c6b137fb27/image.png)](http://www.credly.com/badges/978b870e-168d-4533-81f6-1212169e299b "Red Hat Certified Specialist in Containers")
+[![Red Hat Certified Specialist in Building Resilient Microservices](https://images.credly.com/size/110x110/images/0f573c61-16d5-413e-a556-337b2d985acc/image.png)](http://www.credly.com/badges/c96c1256-c05f-43db-800a-73206fee0d46 "Red Hat Certified Specialist in Building Resilient Microservices")
+[![Red Hat Certified Cloud-Native Developer](https://images.credly.com/size/110x110/images/12ef4e4e-3d8d-4caf-9ab1-858c5bcb9619/image.png)](http://www.credly.com/badges/201a030b-7492-44ea-ba65-212b2444e075 "Red Hat Certified Cloud-Native Developer")
+[![Red Hat Certified Enterprise Application Developer](https://images.credly.com/size/110x110/images/ae7dd2bd-1d04-43d9-b148-1ef79ec45129/image.png)](http://www.credly.com/badges/bdf85994-7164-4591-bc5f-af6e84cac9eb "Red Hat Certified Enterprise Application Developer")
+[![Red Hat Certified OpenShift Application Developer](https://images.credly.com/size/110x110/images/f7107c13-ff27-467c-ac8e-ba4ba609050b/image.png)](http://www.credly.com/badges/71f59428-0ea8-4001-9bfa-d8f8a116e116 "Red Hat Certified OpenShift Application Developer")
+[![Red Hat Certified Specialist in API Management](https://images.credly.com/size/110x110/images/6eb5499c-cf76-4837-ac72-6a254139af1a/image.png)](http://www.credly.com/badges/3c0b415b-64f8-4ffc-9794-7dd47bcfe4ba "Red Hat Certified Specialist in API Management")
+[![Red Hat Certified Specialist in Containers](https://images.credly.com/size/110x110/images/272f17b3-2eb9-4e5f-aa3c-66c6b137fb27/image.png)](http://www.credly.com/badges/ea773764-6af3-4d3a-910b-cb0d54128fa2 "Red Hat Certified Specialist in Containers")
 <!--END_SECTION:badges-->
 
 📝 [Blog](http://blog.gilvansfilho.com)<br/>
