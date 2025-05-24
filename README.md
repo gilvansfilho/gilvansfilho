@@ -19,8 +19,8 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/sandersonsa/kafka-rebalance/pull/1) in [sandersonsa/kafka-rebalance](https://github.com/sandersonsa/kafka-rebalance)
-2. 🗣 Commented on [#27378](https://github.com/keycloak/keycloak/issues/27378#issuecomment-2514171467) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+1. 💪 Opened PR [#39925](https://github.com/keycloak/keycloak/pull/39925) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+2. 🗣 Commented on [#23283](https://github.com/keycloak/keycloak/issues/23283#issuecomment-2904358992) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 3. 🗣 Commented on [#34531](https://github.com/keycloak/keycloak/pull/34531#issuecomment-2454623867) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 4. 🗣 Commented on [#34531](https://github.com/keycloak/keycloak/pull/34531#issuecomment-2454555386) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 5. 🗣 Commented on [#27378](https://github.com/keycloak/keycloak/issues/27378#issuecomment-2454552489) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
