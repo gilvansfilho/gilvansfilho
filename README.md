@@ -14,9 +14,6 @@
 [![Red Hat Certified Specialist in Containers](https://images.credly.com/size/110x110/images/272f17b3-2eb9-4e5f-aa3c-66c6b137fb27/image.png)](http://www.credly.com/badges/d5549a0c-bc50-40fe-aceb-a94c48557e5e "Red Hat Certified Specialist in Containers")
 <!--END_SECTION:badges-->
 
-📝 [Blog](http://blog.gilvansfilho.com)<br/>
-:bird: [Twitter](http://twitter.com/gilvansfilho)
-
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#39925](https://github.com/keycloak/keycloak/pull/39925#issuecomment-2910272054) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
@@ -35,11 +32,3 @@
 14. 🗣 Commented on [#34209](https://github.com/keycloak/keycloak/issues/34209#issuecomment-2429781332) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 15. ❗ Opened issue [#34209](https://github.com/keycloak/keycloak/issues/34209) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 <!--END_SECTION:activity-->
-
-# Blog posts :books:
-- [[PT-BR] CORS para desenvolvedores backend](https://blog.gilvansfilho.com/cors-para-desenvolvedores-backend)
-- [[PT-BR] Log4Shell - Explorando um servidor Java vulnerável](https://blog.gilvansfilho.com/log4shell-explorando-um-servidor-java-vulneravel)
-- [[PT-BR] Tail Latency Amplification e Java](https://blog.gilvansfilho.com/tail-latency-amplification-java)
-- [[PT-BR] Jackson, Json e o tratamento adequado de atributos desconhecidos em API’s](https://blog.gilvansfilho.com/jackson-json-e-o-tratamento-adequado-de-atributos-desconhecidos-em-apis)
-- [[EN] Jackson, JSON and the Proper Handling of Unknown Fields in APIs](https://dzone.com/articles/jackson-json-and-the-proper-handling-of-unknown-fi)
-- [[EN] Jedi way to create configmap and secrets from env files](https://blog.gilvansfilho.com/jedi-way-to-create-configmap-and-secrets-from-env-files)
