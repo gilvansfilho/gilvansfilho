@@ -16,7 +16,7 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39925](https://github.com/keycloak/keycloak/pull/39925#issuecomment-2977236806) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+1. 💪 Opened PR [#47298](https://github.com/keycloak/keycloak/pull/47298) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 2. 🗣 Commented on [#39925](https://github.com/keycloak/keycloak/pull/39925#issuecomment-2949242167) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 3. 🗣 Commented on [#39925](https://github.com/keycloak/keycloak/pull/39925#issuecomment-2940107374) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 4. 🗣 Commented on [#20128](https://github.com/keycloak/keycloak/issues/20128#issuecomment-2940103485) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
