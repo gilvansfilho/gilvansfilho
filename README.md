@@ -16,12 +16,12 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47298](https://github.com/keycloak/keycloak/pull/47298) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-2. 🗣 Commented on [#39925](https://github.com/keycloak/keycloak/pull/39925#issuecomment-2949242167) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-3. 🗣 Commented on [#39925](https://github.com/keycloak/keycloak/pull/39925#issuecomment-2940107374) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-4. 🗣 Commented on [#20128](https://github.com/keycloak/keycloak/issues/20128#issuecomment-2940103485) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-5. 🗣 Commented on [#39925](https://github.com/keycloak/keycloak/pull/39925#issuecomment-2937140614) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-6. 🗣 Commented on [#39925](https://github.com/keycloak/keycloak/pull/39925#issuecomment-2936603874) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+1. 🗣 Commented on [#20128](https://github.com/keycloak/keycloak/issues/20128#issuecomment-4100768412) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+2. 🗣 Commented on [#20128](https://github.com/keycloak/keycloak/issues/20128#issuecomment-4099606763) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+3. 🗣 Commented on [#20128](https://github.com/keycloak/keycloak/issues/20128#issuecomment-4099515965) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+4. 🗣 Commented on [#20128](https://github.com/keycloak/keycloak/issues/20128#issuecomment-4097804525) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+5. 🗣 Commented on [#20128](https://github.com/keycloak/keycloak/issues/20128#issuecomment-4097775555) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+6. 💪 Opened PR [#47298](https://github.com/keycloak/keycloak/pull/47298) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 7. 🗣 Commented on [#39925](https://github.com/keycloak/keycloak/pull/39925#issuecomment-2935755975) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 8. 🗣 Commented on [#39925](https://github.com/keycloak/keycloak/pull/39925#issuecomment-2910272054) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 9. 💪 Opened PR [#39925](https://github.com/keycloak/keycloak/pull/39925) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
