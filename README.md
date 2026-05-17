@@ -22,13 +22,13 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47565](https://github.com/keycloak/keycloak/pull/47565) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-2. 🗣 Commented on [#47565](https://github.com/keycloak/keycloak/pull/47565#issuecomment-4316342225) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-3. 🗣 Commented on [#47676](https://github.com/keycloak/keycloak/issues/47676#issuecomment-4217706772) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-4. 🗣 Commented on [#47676](https://github.com/keycloak/keycloak/issues/47676#issuecomment-4172919950) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-5. 🗣 Commented on [#47676](https://github.com/keycloak/keycloak/issues/47676#issuecomment-4171639257) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-6. 🗣 Commented on [#47676](https://github.com/keycloak/keycloak/issues/47676#issuecomment-4171596198) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-7. 🗣 Commented on [#47676](https://github.com/keycloak/keycloak/issues/47676#issuecomment-4171274987) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+1. 🎉 Merged PR [#12746](https://github.com/strimzi/strimzi-kafka-operator/pull/12746) in [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator)
+2. 🗣 Commented on [#12746](https://github.com/strimzi/strimzi-kafka-operator/pull/12746#issuecomment-4467799060) in [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator)
+3. 🗣 Commented on [#12745](https://github.com/strimzi/strimzi-kafka-operator/issues/12745#issuecomment-4467785487) in [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator)
+4. 💪 Opened PR [#12746](https://github.com/strimzi/strimzi-kafka-operator/pull/12746) in [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator)
+5. ❗ Opened issue [#12745](https://github.com/strimzi/strimzi-kafka-operator/issues/12745) in [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator)
+6. 🎉 Merged PR [#47565](https://github.com/keycloak/keycloak/pull/47565) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+7. 🗣 Commented on [#47565](https://github.com/keycloak/keycloak/pull/47565#issuecomment-4316342225) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 8. 🗣 Commented on [#45811](https://github.com/keycloak/keycloak/issues/45811#issuecomment-4171218608) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 9. 🗣 Commented on [#47676](https://github.com/keycloak/keycloak/issues/47676#issuecomment-4170356970) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 10. ℹ️ Labeled issue [#47676](https://github.com/keycloak/keycloak/issues/47676) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
