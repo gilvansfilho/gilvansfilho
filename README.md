@@ -22,8 +22,8 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51461](https://github.com/keycloak/keycloak/issues/51461#issuecomment-5253476452) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-2. 🗣 Commented on [#12746](https://github.com/strimzi/strimzi-kafka-operator/pull/12746#issuecomment-4467799060) in [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator)
+1. ❗ Opened issue [#863](https://github.com/Kuadrant/kuadrant-console-plugin/issues/863) in [Kuadrant/kuadrant-console-plugin](https://github.com/Kuadrant/kuadrant-console-plugin)
+2. ℹ️ Labeled issue [#863](https://github.com/Kuadrant/kuadrant-console-plugin/issues/863) in [Kuadrant/kuadrant-console-plugin](https://github.com/Kuadrant/kuadrant-console-plugin)
 3. 🗣 Commented on [#12745](https://github.com/strimzi/strimzi-kafka-operator/issues/12745#issuecomment-4467785487) in [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator)
 4. 💪 Opened PR [#12746](https://github.com/strimzi/strimzi-kafka-operator/pull/12746) in [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator)
 5. ❗ Opened issue [#12745](https://github.com/strimzi/strimzi-kafka-operator/issues/12745) in [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator)
